@@ -1,0 +1,6 @@
+[submodule "ios-nrf-connect"]
+	path = ios-nrf-connect
+	url = git@github.com:SuicideSquad6969/ios-nrf-connect.git
+[submodule "docs/assets/vimeop"]
+	path = docs/assets/vimeop
+	url = git@github.com:SuicideSquad6969/ios-nrf-connect.git
